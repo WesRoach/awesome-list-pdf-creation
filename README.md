@@ -9,6 +9,8 @@ Rolling list of software for pdf creation.
 
 [https://www.reportlab.com/casestudies/](https://www.reportlab.com/casestudies/)
 
+[https://edinburgh-genome-foundry.github.io/pdf_reports/index.html](https://edinburgh-genome-foundry.github.io/pdf_reports/index.html)
+
 ## Source Projects
 
 [https://github.com/xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
