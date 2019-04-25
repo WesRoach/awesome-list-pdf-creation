@@ -3,6 +3,8 @@ Rolling list of software for pdf creation.
 
 ## Compiled Projects
 
+[https://github.com/RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed)
+
 [https://weasyprint.org/samples/](https://weasyprint.org/samples/)
 
 [https://www.reportlab.com/casestudies/](https://www.reportlab.com/casestudies/)
