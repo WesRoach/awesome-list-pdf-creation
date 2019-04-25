@@ -9,6 +9,10 @@ Rolling list of software for pdf creation.
 
 [https://www.reportlab.com/casestudies/](https://www.reportlab.com/casestudies/)
 
+[https://github.com/igorkasyanchuk/rails_pdf](https://github.com/igorkasyanchuk/rails_pdf)
+
+[https://github.com/mileszs/wicked_pdf/tree/master](https://github.com/mileszs/wicked_pdf/tree/master)
+
 [https://edinburgh-genome-foundry.github.io/pdf_reports/index.html](https://edinburgh-genome-foundry.github.io/pdf_reports/index.html)
 
 ## Source Projects
